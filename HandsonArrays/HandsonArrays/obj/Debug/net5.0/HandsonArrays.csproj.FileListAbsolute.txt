@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.exe
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.deps.json
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.runtimeconfig.json
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.runtimeconfig.dev.json
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.dll
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\ref\HandsonArrays.dll
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\bin\Debug\net5.0\HandsonArrays.pdb
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.AssemblyInfo.cs
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.dll
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\ref\HandsonArrays.dll
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.pdb
+C:\Users\user\Desktop\office\Module 1\c#\HandsonArrays\HandsonArrays\obj\Debug\net5.0\HandsonArrays.genruntimeconfig.cache
